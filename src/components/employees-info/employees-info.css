@@ -1,0 +1,27 @@
+
+.employees-card-container{
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.employee-card{
+    background-color: rgb(121, 145, 137);
+    width: 150px;
+    box-shadow: 10px 5px 5px rgb(75, 75, 75);
+}
+
+.employee-card-img{
+    border-radius: 50px;
+    width: 75px;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.employees-container-spinner{
+    margin: 0 auto;
+}
+
+.submit-button{
+    width: 100%;
+}
